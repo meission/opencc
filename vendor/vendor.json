@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "WJDbdMFKo93bbEDKyl2TEbr4lxg=",
+			"path": "github.com/go-ego/cedar",
+			"revision": "ea076a54857edde111e1ce0c7fca2272f6856880",
+			"revisionTime": "2018-11-22T17:14:15Z"
+		}
+	],
+	"rootPath": "opencc"
+}
